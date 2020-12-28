@@ -1,0 +1,3 @@
+Install neat-python library
+Copy the flappy.py and neat.txt in the same location
+play around with the values in neat.txt for better/worse results
